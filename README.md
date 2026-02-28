@@ -2,5 +2,3 @@
 
 
 
-
-<img width="435" height="50" alt="Image" src="https://github.com/user-attachments/assets/bd686ffd-86a4-41f6-9103-8b4b343dd9de" />
